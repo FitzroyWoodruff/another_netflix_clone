@@ -6,6 +6,8 @@ There is no video functionality.
 
 a person can create an account using email, sign in with those credentials, and add videos to their like list by clicking on the little hearts on the movies.
 
+![Screen shot of final product](https://github.com/rexprime/another_netflix_clone/blob/main/src/assets/Screen%20Shot%202022-06-07%20at%202.03.19%20PM.png?raw=true "Netflix Clone Screen shot")
+
 ---
 
 # Getting Started with Create React App
