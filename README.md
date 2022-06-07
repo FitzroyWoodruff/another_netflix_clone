@@ -1,3 +1,13 @@
+# This is another Netflix Clone Built with React, Tailwind, and Firebase
+
+With this project I got good practice connecting a react site to Firebase.
+
+There is no video functionality.
+
+a person can create an account using email, sign in with those credentials, and add videos to their like list by clicking on the little hearts on the movies.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
